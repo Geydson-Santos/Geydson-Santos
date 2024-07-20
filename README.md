@@ -1,6 +1,16 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=_008B8B&height=200&section=header&text=Oi&fontSize=50&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=_008B8B&height=200&section=header&text=Olá!&fontSize=50&fontColor=ffffff)
 
-### Hi there 👋
+### **Seja bem vindo ao meu Github!**
+
+Aqui você verá projetos meus feitos durante a faculdade e alguns apenas por hobbie.
+
+Visite também a organização que tenho no Github onde ficam alguns dos meus projetos desenvolvidos durante a faculdade:
+
+<a href="https://github.com/JP-Softwares"> ![Ícone JP Softwares](https://avatars.githubusercontent.com/u/116202805?v=4)
+
+Clique aqui</a>
+
+
 
 <!--
 **Geydson-Santos/Geydson-Santos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
