@@ -6,9 +6,9 @@ Aqui você verá projetos meus feitos durante a faculdade e alguns apenas por ho
 
 Visite também a organização que tenho no Github onde ficam alguns dos meus projetos desenvolvidos durante a faculdade:
 
-<a href="https://github.com/JP-Softwares"> ![Ícone JP Softwares](https://avatars.githubusercontent.com/u/116202805?v=4)
+<a href="https://github.com/JP-Softwares"> ![Ícone JP Softwares](https://avatars.githubusercontent.com/u/116202805?v=4)</a>
 
-Clique aqui</a>
+<a href="https://github.com/JP-Softwares">Clique aqui</a>
 
 
 
